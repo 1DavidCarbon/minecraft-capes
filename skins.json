@@ -3,22 +3,15 @@
     {
       "localization_name": "Steve",
       "geometry": "geometry.humanoid.custom",
-      "texture": "carbon.png",
+      "texture": "custom.png",
 	  "cape": "cape.png",
       "type": "free"
     },
     {
       "localization_name": "Alex",
       "geometry": "geometry.humanoid.customSlim",
-      "texture": "alex.png",
-	  "cape": "cape.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Carbon",
-      "geometry": "geometry.humanoid.customSlim",
-      "texture": "steve.png",
-	  "cape": "cape.png",
+      "texture": "custom2.png",
+	  "cape": "cape2.png",
       "type": "free"
     },	
     {
